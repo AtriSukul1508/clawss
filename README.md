@@ -110,7 +110,7 @@ AI in `clawss` is optional.
 Important:
 
 - AI usage costs are your own
-- `clawss` does not provide free shared model credits
+- `clawss` itself is completely free and does not charge anything
 
 ## Runtime and GPU usage
 
@@ -130,7 +130,7 @@ Important:
 
 - GPU costs are your own
 - remote runtime costs are your own
-- `clawss` does not provide hosted compute
+- `clawss` does not provide hosted compute and does not charge anything itself
 
 ## Why the dependency graph matters
 
